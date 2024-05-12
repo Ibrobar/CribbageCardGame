@@ -7,6 +7,7 @@ import java.util.*;
 
 class CardValue
 {
+    //test
     private int suit, rank;
 
     public CardValue(int suits, int ranks)
