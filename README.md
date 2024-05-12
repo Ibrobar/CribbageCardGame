@@ -1,6 +1,6 @@
 Cribbage The Game!!!!
 
-A card game created in digital form by Darrien, Ibrahim and Brody
+A card game created in digital form by Darrien and Ibrahim
 
 Card game is started by running the Cribbage program. The game starts with 3 players that all start with 5 card hands. After seeing your hand each player will select a card to send to the crib. Press the number of which card you would like to send to the crib and then after each player has done so you will begin placing cards into play in the same method. Those are the unique parts of our cribbage game. The rules of Cribbage including scoring and end conditions are below.
 
