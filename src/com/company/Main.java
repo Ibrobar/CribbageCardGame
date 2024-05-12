@@ -6,7 +6,7 @@ import java.util.Random;
 import java.util.*;
 
 public class Main {
-
+//test
     public static void main(String[] args) {
 
         int z = 0;
